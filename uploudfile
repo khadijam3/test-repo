@@ -50,12 +50,15 @@ public class AdbanceWindosHandles {
                driver.switchTo().window(handle);
                 System.out.println(driver.getTitle());
                 driver.close();
+
+                fasjfaajjfaaafjafajk
             }
         }
         driver.switchTo().window(mainPageHandle);//switch back to parnat and child
         helpPage.click();
 
       this is new commit
-    }
+      i want to add more info init let do it this way
+
 }
 }}
